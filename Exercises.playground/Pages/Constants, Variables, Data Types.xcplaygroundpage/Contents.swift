@@ -60,7 +60,7 @@ let averageAge = (Double(myAge) + otherAge)/2
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this variable.
  */
 // Answer Question 3 below
-
+var favouriteHobby = "Reading"
 
 /*:
  ### Question 4
@@ -70,6 +70,7 @@ let averageAge = (Double(myAge) + otherAge)/2
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
+print("One advantage of using a constant is that since a constant never changes, a computer won't check to see if it's value changes, saving memory and makes the program run faster. Second, if you accidently change a constant, the program will pop up an error and prevent you from changing it.")
 
 
 /*:
@@ -77,7 +78,7 @@ let averageAge = (Double(myAge) + otherAge)/2
  
  ![million](million.jpg "I demand the sum of one million dollars!")
  
- Define a constant named `randomDemand` and set the value to one million dollars, using underscores to make the value more readable.
+ Define a constant named `ransomDemand` and set the value to one million dollars, using underscores to make the value more readable.
  
  */
 // Answer Question 5 below
