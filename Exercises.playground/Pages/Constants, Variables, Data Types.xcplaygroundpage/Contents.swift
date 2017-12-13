@@ -50,7 +50,9 @@ let novemberReportGrade = 9001
  
  */
 // Answer Question 2 below
-
+let myAge = 15
+let otherAge = 40.0
+let averageAge = (Double(myAge) + otherAge)/2
 
 /*:
  ### Question 3
