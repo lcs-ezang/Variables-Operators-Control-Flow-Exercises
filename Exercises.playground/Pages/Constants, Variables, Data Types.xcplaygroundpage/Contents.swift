@@ -116,7 +116,9 @@ print("It is a syntax error because the program was not able to compile at all. 
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-print("")
+print("As a programmer using Swift, this means that I will never be able to use different data")
+print("types with each other. For example, instead of adding the interger 5 and string 5 and")
+print("getting 55, I will get an error that will stop me from making that mistake.")
 
 
 
