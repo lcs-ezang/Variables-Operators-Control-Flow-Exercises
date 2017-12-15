@@ -82,7 +82,7 @@ print("One advantage of using a constant is that since a constant never changes,
  
  */
 // Answer Question 5 below
-
+let ransomDemand = 1_000_000
 /*:
  ### Question 6
  
@@ -102,7 +102,11 @@ print("One advantage of using a constant is that since a constant never changes,
  
  */
 // Answer Question 6 below
-
+var year = 2017
+let goodbye = "plz leave"
+//year = goodbye
+print("The error is a syntax error")
+print("It is a syntax error because the program was not able to compile at all. The variable year is saved as a integer, while the constant goodbye is a string. Therefore, year cannot take the value of goodbye because they are different data types.")
 
 /*:
  ### Question 7
@@ -112,7 +116,7 @@ print("One advantage of using a constant is that since a constant never changes,
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
+print("")
 
 
 

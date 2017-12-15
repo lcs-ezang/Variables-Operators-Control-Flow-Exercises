@@ -43,6 +43,18 @@
  
  */
 // Answer Question 1 below
+//Starting money
+var partTimeJobEarnings = 0.0
+//Shoveling snow
+print (partTimeJobEarnings += 22.50 * 1/2)
+//Babysitting 1
+print (partTimeJobEarnings += 20.0)
+//Buying snacks
+print (partTimeJobEarnings -= partTimeJobEarnings / 2)
+//Babysitting during the party
+print (partTimeJobEarnings += 25.0 * 4)
+//Buying a dinner
+print (partTimeJobEarnings -= 50.0)
 
 
 /*:
@@ -54,7 +66,7 @@
 
 */
 // Answer Question 2 below
-6 + 4 * 5 - 2
+6 + 4 * (5 - 2)
 
 
 
